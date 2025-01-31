@@ -27,4 +27,4 @@ make a get request
 
 ${url}/api/subscription/${walletAddress}
 
-Note: Don't forget to replace ${url} with the actual backend port(like http://localhost:5000) and  ${walletAddress} will the saved walletAddress in the database
+Note: Don't forget to replace ${url} with the actual backend port(like https://stripe-subscription-g5uc.onrender.com) and  ${walletAddress} will the saved walletAddress in the database
